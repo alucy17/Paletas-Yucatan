@@ -50,13 +50,12 @@ body{
 #seq-image{
 	
 	background-image: url( ../img/44670763_698613887187863_5250141355178459136_o.png);
-	background-size:auto;
+	background-size:cover;
 	background-repeat:repeat-x;
 	background-position:center;
     background-attachment:fixed;
 	padding-top: 140px;
-	padding-bottom: 250px;
-	background-color: black;
+	padding-bottom: 200px;
 	color: white;
 	
 }
